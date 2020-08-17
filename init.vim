@@ -3,13 +3,6 @@
 " ===================== Keys =====================
 
 
-
-" ===================== colorshceme settings =====================
-
-" ===================== colorshceme settings =====================
-
-
-
 " ===================== vim-airline settings =====================
 let g:airline_theme='onedark'
 let g:airline#extensions#tabline#enabled = 1
@@ -47,6 +40,7 @@ call plug#begin()
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdtree'
+Plug 'dracula/vim', { 'as': 'dracula' }
 
 call plug#end()
 " ===================== Plug =====================  
