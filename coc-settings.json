@@ -1,0 +1,11 @@
+{
+  "suggest.enablePreselect": true,
+  "diagnostic.checkCurrentLine": true,
+  "suggest.timeout": 1000,
+  "languageserver": {
+    "swift": {
+      "commond": "sourcekit-lsp",
+      "filetypes": ["swift"]
+    }
+  }
+}

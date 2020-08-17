@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella'
+let g:netrw_dirhist_6='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella/src/Views/PassageAboutView'
+let g:netrw_dirhist_5='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella/src/Views'
+let g:netrw_dirhist_4='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella/src'
+let g:netrw_dirhist_3='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella'
+let g:netrw_dirhist_2='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella/src'
+let g:netrw_dirhist_1='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella'
+let g:netrw_dirhist_0='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project'
+let g:netrw_dirhist_9='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project/stella'
+let g:netrw_dirhist_8='/Users/junso/Library/Mobile Documents/com~apple~CloudDocs/Work/Project'
