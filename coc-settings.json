@@ -2,6 +2,28 @@
   "suggest.enablePreselect": true,
   "diagnostic.checkCurrentLine": true,
   "suggest.timeout": 1000,
+  "tsserver.trace.server": "verbose",
+  "tsserver.log": "verbose",
+  "coc.preferences.triggerAfterInsertEnter": false,
+  "coc.preferences.diagnostic.enable": true,
+  "coc.preferences.snippets.enable": true,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css", 
+    "markdown", 
+    "typescript", 
+    "javascript", 
+    "typescript.tsx",
+    "tsx"
+  ],
+  "eslint.autoFix": true,
+  "eslint.autoFixOnSave": true,
+  "tsserver.implicitProjectConfig.experimentalDecorators": true,
+  "eslint.filetypes": [
+    "javascript",
+    "javascript.jsx",
+    "typescript",
+    "typescript.jsx"
+  ],
   "languageserver": {
     "swift": {
       "commond": "sourcekit-lsp",
